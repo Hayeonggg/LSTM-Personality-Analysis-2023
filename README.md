@@ -1,7 +1,7 @@
 # 2023년도 (사)융복합지식학회 추계학술발표대회 논문집
 ## LSTM과 Bi-LSTM을 이용한 개인 성향분석 
 ###  Personality Analysis using LSTM and Bi-LSTM
-
+`* 우수 포스터 상 수상 *`
 </br>
 
 ## - POSTER
